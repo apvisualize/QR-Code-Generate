@@ -1,0 +1,6 @@
+{
+  "name": "QR Studio Pro - Custom QR Code Generator",
+  "description": "Generator QR code kustom profesional dengan kustomisasi pola dot, mata kode, logo, gradien warna, dan unduh instan PNG serta SVG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
